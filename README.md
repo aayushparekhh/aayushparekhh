@@ -1,5 +1,5 @@
+![Animated GIF-downsized](https://user-images.githubusercontent.com/64417892/110837295-0cd01b80-82c7-11eb-9a71-445b446e252e.gif)
 
-[![Header](https://user-images.githubusercontent.com/64417892/110837295-0cd01b80-82c7-11eb-9a71-445b446e252e.gif)]
 
 ##### Hi, I'm Aayush Parekh:
 
