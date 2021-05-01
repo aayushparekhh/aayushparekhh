@@ -1,7 +1,8 @@
-![Animated GIF-downsized](https://user-images.githubusercontent.com/64417892/110837295-0cd01b80-82c7-11eb-9a71-445b446e252e.gif)
+![Animated GIF-downsized_large (2)](https://user-images.githubusercontent.com/64417892/116790465-e6ae4700-aad1-11eb-9f5d-0f11e6be7a87.gif)
 
 
-##### Hi, I'm Aayush Parekh:
+
+# Hi, I'm Aayush Parekh:
 
 - 🎓Computer science student and enthusiast
 - :test_tube: Building Full stack Projects
