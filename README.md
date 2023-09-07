@@ -4,7 +4,7 @@
 
 # Hi, I'm Aayush Parekh:
 
-- 🎓Computer science student and enthusiast
+- 🎓Masters Computer science student and enthusiast
 - :test_tube: Building Full stack Projects
 - :mailbox: You can reach me with the links below
 
